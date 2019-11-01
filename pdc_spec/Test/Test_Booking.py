@@ -1,4 +1,4 @@
-from pdc_spec.Test.Pages.Search_Page import SearchPage
+from pdc_spec.Pages.Search_Page import SearchPage
 from pdc_spec.Utilities.Config import *
 import pytest
 
